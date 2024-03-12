@@ -11,8 +11,8 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
-    cost: 0
+  - name: Sand
+    cost: 5
   - name: 
     cost: 1
   - name: 
@@ -77,8 +77,8 @@ NavMeshProjectSettings:
     agentHeight: 0.85
     agentSlope: 30
     agentClimb: 0.3
-    ledgeDropHeight: 0.8
-    maxJumpAcrossDistance: 5
+    ledgeDropHeight: 0.0001
+    maxJumpAcrossDistance: 7
     minRegionArea: 2
     manualCellSize: 0
     cellSize: 0.16666667
