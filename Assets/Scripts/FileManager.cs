@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 using System;
 
-public static class FileManger
+public static class FileManager
 {
     public static bool WriteToFile(string filename, string data)
     {
